@@ -1,3 +1,5 @@
+@import url("http://fonts.cdnfonts.com/css/uber-move-text");
+
 *,
 *::before,
 *::after {
@@ -41,7 +43,7 @@ body {
   background: white;
   color: black;
   margin: 0;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Uber Move Text", "Courier New", Courier, monospace;
   font-size: 300;
   line-height: 1.6;
 }
